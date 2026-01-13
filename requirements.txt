@@ -1,0 +1,9 @@
+streamlit
+gtts
+deep-translator
+SpeechRecognition
+pyaudio
+sqlite3
+groq
+requests
+geopy
