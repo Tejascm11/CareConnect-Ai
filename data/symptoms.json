@@ -1,0 +1,23 @@
+{
+  "fever": {
+    "category": "General Illness",
+    "cause": "Fever occurs due to viral or bacterial infection.",
+    "medicine": "Paracetamol helps reduce fever.",
+    "advice": "Drink warm fluids and take rest.",
+    "warning": "See doctor if fever lasts more than 2 days."
+  },
+  "constipation": {
+    "category": "Digestive",
+    "cause": "Low fiber intake and dehydration.",
+    "medicine": "Fiber supplements may help.",
+    "advice": "Eat fruits, vegetables and drink water.",
+    "warning": "If constipation lasts more than a week."
+  },
+  "uric acid or gout": {
+    "category": "Metabolic / Joint",
+    "cause": "High uric acid crystal buildup in joints.",
+    "medicine": "Medicines reduce uric acid levels.",
+    "advice": "Avoid red meat and drink water.",
+    "warning": "If severe joint pain occurs."
+  }
+}

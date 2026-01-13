@@ -1,0 +1,7 @@
+{
+  "fever": ["fever", "high temperature", "body heat"],
+  "cold": ["cold", "running nose", "sneezing"],
+  "constipation": ["constipation", "hard stool", "difficulty passing stool"],
+  "uric acid or gout": ["uric acid", "gout", "joint pain", "toe pain"],
+  "pcod": ["pcod", "pcos", "hormonal imbalance"]
+}
