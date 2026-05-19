@@ -16,7 +16,7 @@ from utils.location import (
 
 # ================= CONFIG =================
 
-client = Groq(api_key=("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"))
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 st.set_page_config(
     page_title="CareConnect",
